@@ -94,7 +94,7 @@ npm run dev
 
 This starts:
 
-- Backend server on `http://localhost:5000`
+- Backend server on `http://localhost:4000`
 - Frontend Vite app on `http://localhost:5173`
 
 ### 4) Verify health
