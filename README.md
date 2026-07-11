@@ -116,6 +116,29 @@ npm test
 - `POST /execute` — Run JavaScript code
 - `GET /health` — Health check endpoint
 
+# Live Demo
+
+🌐 Frontend: https://real-time-collaborative-code-editor-zeta.vercel.app
+
+## Tech Stack
+
+- React
+- Node.js
+- Express.js
+- Socket.IO
+- MongoDB
+- Vite
+
+## Features
+
+- Real-time collaborative editing
+- Room-based collaboration
+- Live active users
+- Syntax highlighting
+- Multiple language support
+- Code execution
+- Responsive UI
+
 ## 🤝 Contributing
 
 Contributions are welcome. If you would like to improve the project, please open an issue or submit a pull request.
